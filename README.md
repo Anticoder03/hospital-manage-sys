@@ -28,7 +28,7 @@ For detailed documentation, visit the official guide or refer to the source code
 ## 🛠 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/hospital-management-system.git
+git clone https://github.com/Anticoder03/hospital-manage-sys.git
 
 # Change to project directory
 cd hospital-management-system
